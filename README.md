@@ -7,3 +7,5 @@ Estoy trabajando en un proyecto donde debo cumplir ciertas tares
 ## Estructura
 - frontend: Contiene el login .
 - backend: API.
+
+Hemos creado un proyecto con sus respectivas asignaciones 
