@@ -12,7 +12,7 @@ Estoy trabajando en un proyecto donde debo cumplir ciertas tares
 - frontend: Contiene el login .
 - backend: API.
 
-Hemos creado un proyecto con sus respectivas asignaciones 
+Yo he creado un proyecto con sus respectivas asignaciones 
 
  ## Asignaciones del Proyecto
 
