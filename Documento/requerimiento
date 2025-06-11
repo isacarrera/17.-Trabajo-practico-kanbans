@@ -1,0 +1,6 @@
+### Requerimientos funcionales
+- El sistema debe permitir login de admin y usuarios.
+-Debe tener registro.
+### Requerimientos no funcionales
+- La respuesta del backend debe tardar menos de 2 segundos.
+- El diseño debe ser responsive.
